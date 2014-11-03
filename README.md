@@ -1,4 +1,4 @@
 scrabble
 ========
 
-Simple crabble tiles for minetest in "Creative" mode
+Simple letter tiles for minetest in "Creative" mode
