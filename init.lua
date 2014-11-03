@@ -52,7 +52,6 @@ minetest.register_node('scrabble:tile_' .. letter, {
 	paramtype = "light",
 	paramtype2 = "facedir",
 	walkable = true,
-	-- light_source = 1,
 	groups = { snappy = 3 },
 	sounds = default.node_sound_wood_defaults(),
 	on_place = minetest.rotate_node
