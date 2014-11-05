@@ -40,10 +40,6 @@ minetest.register_node('scrabble:tile_' .. letter, {
 		'scrabble_tile.png',
 		'scrabble_tile.png'
 	},
-    selection_box = {
-        type = "fixed",
-        fixed = { -0.48, -0.5, -0.48, 0.48, -0.25, 0.48 }
-	},
 	node_box = {
 		type = "fixed",
 		fixed = { -0.48, -0.5, -0.48, 0.48, -0.25, 0.48 }
