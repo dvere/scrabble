@@ -20,6 +20,7 @@ left empty and blank tiles go in the bottom right slot.
 
 Examples:
 
+```
 D = dark green dye
 B = blank tile
 _ = empty slot
@@ -38,7 +39,7 @@ V:
     D _ _
     D _ _
     D D B
-
+```
 
 
 
