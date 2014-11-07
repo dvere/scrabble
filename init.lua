@@ -64,7 +64,7 @@ for _, row in ipairs(alphabet) do
 		})
 	else
 		minetest.register_craft({
-			output = 'scrabble:tile_' .. letter ..' 10',
+			output = 'scrabble:tile_' .. letter ..' 1',
 			recipe = {
 				{row[2], row[5], ""},
 				{row[3], row[6], ""},
